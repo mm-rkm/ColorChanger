@@ -1,0 +1,12 @@
+{
+    "ducks": [
+        {
+            "name": "Ben",
+            "color": "Brown"
+        },
+        {
+            "name": "Younis",
+            "color": "Yellow"
+        }
+    ]
+}
