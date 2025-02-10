@@ -16,5 +16,9 @@
             "name": "Yara",
             "color": "White"
         }
-    ]
+    ],
+    "mamaDuck": {
+        "name": "Mama Duck",
+        "color": "Black"
+    }
 }
