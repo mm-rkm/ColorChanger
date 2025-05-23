@@ -28,6 +28,7 @@ def swap_and_preview():
 
         try:
             # Open the image
+            # Open the image Test
             img = Image.open(file_path)
 
             # Convert to RGB if it's not already
