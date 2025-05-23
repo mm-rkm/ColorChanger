@@ -1,0 +1,24 @@
+{
+    "ducks": [
+        {
+            "name": "Ben",
+            "color": "Brown"
+        },
+        {
+            "name": "Younis",
+            "color": "Yellow"
+        },
+        {
+            "name": "Bella",
+            "color": "Pink"
+        },
+        {
+            "name": "Yara",
+            "color": "White"
+        }
+    ],
+    "mamaDuck": {
+        "name": "Mama Duck",
+        "color": "Black"
+    }
+}
