@@ -48,6 +48,8 @@ def swap_and_preview():
             # Display the images side by side
             display_side_by_side(img, swapped_img)
 
+#test bla
+
         except Exception as e:
             messagebox.showerror("Error", f"An error occurred: {str(e)}")
 
